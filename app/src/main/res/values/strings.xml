@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppContacto</string>
+    <string name="titulo1">Datos de contacto</string>
+    <string name="txtNombre">Nombre completo</string>
+    <string name="txtFecha">Fecha de nacimiento</string>
+    <string name="txtTelefono">Telefono</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtDescripcion">Descripcion del contacto</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="titulo2">Confirmar datos</string>
+    <string name="btnEditar">Editar datos</string>
+</resources>
